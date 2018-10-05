@@ -1,0 +1,6 @@
+C:\Users\jose\Documents\GitHub\Analisis_Financiero\analisis_financiero_csharp\analisis_financiero_csharp\obj\Debug\analisis_financiero_csharp.csprojAssemblyReference.cache
+C:\Users\jose\Documents\GitHub\Analisis_Financiero\analisis_financiero_csharp\analisis_financiero_csharp\obj\Debug\analisis_financiero_csharp.crear_usuario.resources
+C:\Users\jose\Documents\GitHub\Analisis_Financiero\analisis_financiero_csharp\analisis_financiero_csharp\obj\Debug\analisis_financiero_csharp.Form1.resources
+C:\Users\jose\Documents\GitHub\Analisis_Financiero\analisis_financiero_csharp\analisis_financiero_csharp\obj\Debug\analisis_financiero_csharp.Properties.Resources.resources
+C:\Users\jose\Documents\GitHub\Analisis_Financiero\analisis_financiero_csharp\analisis_financiero_csharp\obj\Debug\analisis_financiero_csharp.csproj.GenerateResource.cache
+C:\Users\jose\Documents\GitHub\Analisis_Financiero\analisis_financiero_csharp\analisis_financiero_csharp\obj\Debug\analisis_financiero_csharp.csproj.CoreCompileInputs.cache
